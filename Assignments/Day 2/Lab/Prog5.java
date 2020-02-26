@@ -24,5 +24,7 @@ public class Prog5 {
             }
         }
         System.out.println(countX + " 'x' charaters.");
+
+        sc.close();
     }
 }
