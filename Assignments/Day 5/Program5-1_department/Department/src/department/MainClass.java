@@ -6,6 +6,7 @@ import java.util.Scanner;
 public class MainClass {
 
 	public static void main(String[] args) {
+		
 		Scanner sc = new Scanner(System.in);
 
 		Professor p1 = new Professor("James", 800000.0, new Date());
@@ -37,7 +38,7 @@ public class MainClass {
 							department[i].computeSalary(), department[i].getHireDate());
 					System.out.println(result);
 				}
-			}
+			}v
 		}
 		sc.close();
 	}
