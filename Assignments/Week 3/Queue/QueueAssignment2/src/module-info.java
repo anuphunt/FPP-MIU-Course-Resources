@@ -1,0 +1,2 @@
+module QueueAssignment2 {
+}
